@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+| Project Name | Tech Stack | Code Link | Demo |
+|--------------|------------|-----------|-----|
+|              |            |           |     |
+|              |            |           |     |
+|              |            |           |     |
+|              |            |           |     |
+|              |            |           |     |
+|              |            |           |     |
+|              |            |           |     |
+-->
