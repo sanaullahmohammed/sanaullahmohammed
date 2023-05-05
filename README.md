@@ -62,13 +62,19 @@ I'm **Mohammed Sanaullah** from Bengaluru, India.
     alt="narayanasuri" height="32" width="32" />
 </a>
 -->
+
 <a href="https://www.linkedin.com/in/mohammed-sanaullah-2040711a0/" target="_blank" rel="noreferrer">
-  <img align="left" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="mohammedsanaullah"
+  <img align="left" src="images/linkedin.png"
     height="32" width="32" />
 </a>
+<a href="https://codepen.io/Hop3l3ssCod3r" target="_blank" rel="noreferrer">
+  <img align="left" src="images/codepen.png" alt="mohammedsanaullah"
+    height="32" width="32" />
+</a>
+
 <a href="https://www.hackerrank.com/mohammedsanaull4" target="_blank" rel="noreferrer">
   <img align="left"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+    src="images/hackerrank.png"
     alt="mohammedsanaullah" height="32" width="32" />
 </a>
     
