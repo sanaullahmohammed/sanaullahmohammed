@@ -75,6 +75,6 @@ I'm **Mohammed Sanaullah** from Bengaluru, India.
 <a href="https://www.hackerrank.com/mohammedsanaull4" target="_blank" rel="noreferrer">
   <img align="left"
     src="images/hackerrank.png"
-    alt="mohammedsanaullah" height="32" width="32" />
+    alt="mohammedsanaullah" height="34" width="34" />
 </a>
     
