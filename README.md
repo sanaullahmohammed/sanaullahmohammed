@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sanaullahmohammed/sanaullahmohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,8 +29,8 @@ Here are some ideas to get you started:
 I'm **Mohammed Sanaullah** from Bengaluru, India.
 
 - I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications.
-- I work as a Software Design Engineer at a Startup 🏢
-- I love exploring and learning new technologies ✨
+- I work as a Software Design Engineer at a Startup.
+- I'm a Clean Code affectionado.
 
 <!--
 ### What's my development setup?
