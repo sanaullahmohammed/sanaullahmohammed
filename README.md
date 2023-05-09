@@ -51,7 +51,7 @@ I'm **Mohammed Sanaullah** from Bengaluru, India.
 
 - [Notes App](https://sanaullahmohammed.github.io/notes-app/)
 - [Google Keep Clone](https://sanaullahmohammed.github.io/google-keep-clone/)
-- [Peer Verse WebRTC using Peer.js](https://github.com/sanaullahmohammed/peer-verse-webRTC)
+- [WebRTC-Trials using Peer.js](https://github.com/sanaullahmohammed/webRTC-trials)
 
 ### Let's connect
 
