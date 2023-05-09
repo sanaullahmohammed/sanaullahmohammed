@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 I'm **Mohammed Sanaullah** from Bengaluru, India.
 
-- My preferred pronouns are **He/Him/His** 🏳️
 - I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications.
 - I work as a Software Design Engineer at a Startup 🏢
 - I love exploring and learning new technologies ✨
