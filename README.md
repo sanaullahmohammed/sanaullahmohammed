@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 
 I'm **Mohammed Sanaullah** from Bengaluru, India.
+Here's my [portfolio](https://sanaullahmohammed.github.io/ms-portfolio-v1/index.html)
 
 - I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications.
 - I work as a Software Design Engineer at a Startup.
