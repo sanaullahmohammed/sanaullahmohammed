@@ -52,6 +52,7 @@ Here's my [portfolio](https://sanaullahmohammed.github.io/ms-portfolio-v1/index.
 - [Google Keep Clone](https://sanaullahmohammed.github.io/google-keep-clone/)
 - [WebRTC-Trials using Peer.js](https://github.com/sanaullahmohammed/webRTC-trials)
 - [Quiz App React using Trivia API](https://sanaullahmohammed.github.io/quiz-app-react/) 
+- [Slideshow App](https://sanaullahmohammed.github.io/slideshow-app/)
 
 ### Let's connect
 
