@@ -45,7 +45,7 @@ Here's my [portfolio](https://sanaullahmohammed.github.io/ms-portfolio-v1/index.
 
 - [Breaking down React for Beginners](https://narayanasuri.hashnode.dev/breaking-down-react-for-beginners)
 
--->
+
 ### What are some of the projects I've worked on?
 
 - [Notes App](https://sanaullahmohammed.github.io/notes-app/)
@@ -56,13 +56,13 @@ Here's my [portfolio](https://sanaullahmohammed.github.io/ms-portfolio-v1/index.
 
 ### Let's connect
 
-<!--
+
 <a href="http://www.instagram.com/suriosityy" target="_blank" rel="noreferrer">
   <img align="left"
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
     alt="narayanasuri" height="32" width="32" />
 </a>
--->
+
 
 <a href="https://www.linkedin.com/in/mohammed-sanaullah-2040711a0/" target="_blank" rel="noreferrer">
   <img align="left" src="images/linkedin.png"
@@ -79,3 +79,4 @@ Here's my [portfolio](https://sanaullahmohammed.github.io/ms-portfolio-v1/index.
     alt="mohammedsanaullah" height="34" width="34" />
 </a>
     
+-->
