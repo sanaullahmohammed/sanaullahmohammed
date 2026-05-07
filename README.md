@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 I'm **Mohammed Sanaullah** from Bengaluru, India.
-Here's my <a href="https://sanaullahmohammed.github.io/portfolio-v5" target="_blank" rel="noopener noreferrer">portfolio</a>
+Here's my [portfolio](https://sanaullahmohammed.github.io/portfolio-v5)
 
 - I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications.
 - I work as a Staff Engineer at StoneX.
